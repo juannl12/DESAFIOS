@@ -1,0 +1,5 @@
+n1 = str(input('Digite seu nome completo: ')).strip()
+n2 = n1.split()
+n3 = n1.rsplit()
+print('O primeiro nome é: ',n2[0])
+print('O segundo nome é: ',n3[:])

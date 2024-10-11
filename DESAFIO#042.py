@@ -1,0 +1,6 @@
+print('-='*20)
+print('       Analizador de Triângulos       ')
+print('-='*20)
+r1 = float(input('Digite o valor da 1° reta: '))
+r2 = float(input('Digite o valor da 2° reta: '))
+r3 = float(input('Digite o valor da 3° reta: '))
